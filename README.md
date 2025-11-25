@@ -18,11 +18,11 @@ SC-200 - Microsoft Security Operations Analyst
 
 
 🚀 Huidige Projecten
-Voeg hier je projecten toe, bijvoorbeeld:
+CIPP (Multi tenant beheer)
 
-🔐 Project 1 - Beschrijving
-☁️ Project 2 - Beschrijving
-🤖 Project 3 - Beschrijving
+🔐 Project 1 - Tenant inrichtingen 
+☁️ Project 2 - Homelab
+🤖 Project 3 - LLM model
 
 
 💭 Inspiratie
