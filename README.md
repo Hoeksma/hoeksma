@@ -21,7 +21,9 @@ SC-200 - Microsoft Security Operations Analyst
 CIPP (Multi tenant beheer)
 
 🔐 Project 1 - Tenant inrichtingen 
+
 ☁️ Project 2 - Homelab
+
 🤖 Project 3 - LLM model
 
 
