@@ -1,4 +1,5 @@
 👋 Hallo, ik ben Hoeksma
+
 💼 IT'er
 
 Gepassioneerd over cloud technologie, security en kunstmatige intelligentie. Ik help organisaties met het implementeren van Microsoft-oplossingen en het verbeteren van hun digitale veiligheid.
