@@ -8,9 +8,13 @@ Gepassioneerd over cloud technologie, security en kunstmatige intelligentie. Ik 
 ✅ Behaald
 
 SC-900 - Microsoft Security, Compliance, and Identity Fundamentals
+
 SC-300 - Microsoft Identity and Access Administrator
+
 AI-900 - Microsoft Azure AI Fundamentals
+
 DP-900 - Microsoft Azure Data Fundamentals
+
 AZ-900 - Microsoft Azure Fundamentals
 
 🔄 In Progress
